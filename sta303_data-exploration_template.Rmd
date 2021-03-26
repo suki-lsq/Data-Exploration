@@ -6,7 +6,7 @@ header-includes:
   - \usepackage{lastpage}
   - \usepackage{fancyhdr}
   - \pagestyle{fancy}
-  - \fancyhead[CO, CE]{Shiqi Liu, 1004743646}
+  - \fancyhead[CO, CE]{Shiqi Liu}
   - \fancyfoot[CO, CE]{\thepage \ of \pageref{LastPage}}
 ---
 
